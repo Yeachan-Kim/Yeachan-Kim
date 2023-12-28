@@ -30,9 +30,12 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeachan-Kim&show_icons=true&theme=radical)
 <br/>
+<br/> 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghaeun1009)](https://solved.ac/ghaeun1009)
 <br/>
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeachan-Kim&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 <br/>
 
 </div>
