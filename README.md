@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=tistory&logoColor=#000000"/></a>
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=social&logo=tistory&logoColor=#000000"/></a>
 <!--
 **Yeachan-Kim/Yeachan-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
