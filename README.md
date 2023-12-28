@@ -23,7 +23,7 @@
 
   <br/>
    <br/>
- https://yescold.tistory.com/
+
 #### :pencil2: Study log
  
   <br/>
