@@ -18,12 +18,12 @@
 <img src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/티스토리-gray?style=social&logo=tistory&logoColor=#000000"/></a>
+<a href="https://yescold.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
 <br/>
 
   <br/>
    <br/>
- 
+ https://yescold.tistory.com/
 #### :pencil2: Study log
  
   <br/>
