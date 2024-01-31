@@ -1,14 +1,18 @@
-<div align="center">
+<div align='center'>
   
 ![header](https://capsule-render.vercel.app/api?type=waving&text=WHO%20AM%20I%20?&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlign=90&fontAlignY=20&color=auto)
 
-####  :wave: Welcome my github profile !
+
+
+####  :wave: 김예찬의 깃허브에 방문해주셔서 감사합니다.
+
+
 
   <br/>
   <br/>
-
-####  :clipboard: Once I've Used 
   
+🛠️ Stacks
+
  <br/>
   
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -18,25 +22,37 @@
 <img src="https://img.shields.io/badge/NODEJS-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white">
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<a href="https://yescold.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/></a>
+
 <br/>
 
   <br/>
    <br/>
 
 #### :pencil2: Study log
- 
-  <br/>
-
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yeachan-Kim&show_icons=true&theme=radical)
 <br/>
-<br/> 
+<br/>
+🏅 Algorithm Level.
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghaeun1009)](https://solved.ac/ghaeun1009)
 <br/>
 <br/>
+
+💻📊 language usage.
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yeachan-Kim&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 <br/>
+
+
+
+🐱 Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghaeun1009@gmail.com)](ghaeun1009@gmail.com)
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yescold.tistory.com/)](https://yescold.tistory.com/)
+[![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://polarized-salt-eb3.notion.site/55732d8f2b264ff890c04384cc5d8fe3?pvs=4)](https://polarized-salt-eb3.notion.site/55732d8f2b264ff890c04384cc5d8fe3?pvs=4)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@mo_ta)](https://velog.io/@mo_ta)
 
 </div>
 
