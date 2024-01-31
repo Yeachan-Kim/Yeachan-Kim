@@ -2,10 +2,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&text=WHO%20AM%20I%20?&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlign=90&fontAlignY=20&color=auto)
 
+<img src="https://file.notion.so/f/f/ea78fc73-93db-4ae7-9fbd-4f592bef1425/a43d1b57-5936-4899-a2dd-beaef91b970d/%ED%94%84%EB%A1%9C%ED%95%842.jpg?id=7d7d4964-90f9-495e-97af-58c841c9acbc&table=block&spaceId=ea78fc73-93db-4ae7-9fbd-4f592bef1425&expirationTimestamp=1706817600000&signature=JxyL8r5xBPGo1c0_gj4CRtT5UVO7a8NrEnA87J2zoko&downloadName=%ED%94%84%EB%A1%9C%ED%95%842.jpg" width="300" height="400" />
 
+####  :wave: 안녕하세요 사람들이 필요로 하는 서비스를 만들고 싶은 김예찬입니다.
 
-####  :wave: 김예찬의 깃허브에 방문해주셔서 감사합니다.
-
+창업과 개발에 관심이 많은 김예찬입니다. 경북대학교에 재학 중이며
+<세상에 내가 할 수 없는 일은 없다, 끝까지 몰아붙여 나의 한계를 넓히자>는 모토로 살아가고 있습니다
 
 
   <br/>
@@ -47,7 +49,7 @@
 
 
 
-🐱 Contact
+🐱 Social
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ghaeun1009@gmail.com)](ghaeun1009@gmail.com)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://yescold.tistory.com/)](https://yescold.tistory.com/)
@@ -60,7 +62,7 @@
 **Yeachan-Kim/Yeachan-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 &text=안녕하세요%20김예찬입니다.&fontSize=20&animation=fadeIn&fontAlign=85&fontAlignY=20
 Here are some ideas to get you started:
-
+![프로필 이미지](https://github.com/Yeachan-Kim/Yeachan-Kim/assets/52204621/af76ff93-90e9-4565-958c-c60c1b2bf869)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
