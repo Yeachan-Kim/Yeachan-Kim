@@ -2,7 +2,10 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&text=WHO%20AM%20I%20?&fontSize=20&fontColor=FFFFFF&animation=fadeIn&fontAlign=90&fontAlignY=20&color=auto)
 
-<img src="https://file.notion.so/f/f/ea78fc73-93db-4ae7-9fbd-4f592bef1425/a43d1b57-5936-4899-a2dd-beaef91b970d/%ED%94%84%EB%A1%9C%ED%95%842.jpg?id=7d7d4964-90f9-495e-97af-58c841c9acbc&table=block&spaceId=ea78fc73-93db-4ae7-9fbd-4f592bef1425&expirationTimestamp=1706817600000&signature=JxyL8r5xBPGo1c0_gj4CRtT5UVO7a8NrEnA87J2zoko&downloadName=%ED%94%84%EB%A1%9C%ED%95%842.jpg" width="300" height="400" />
+
+
+![증명사진](https://github.com/Yeachan-Kim/Yeachan-Kim/assets/52204621/068dcfc5-5d1f-4001-a9cf-03b675c76c43)
+
 
 ####  :wave: 안녕하세요 사람들이 필요로 하는 서비스를 만들고 싶은 김예찬입니다.
 
